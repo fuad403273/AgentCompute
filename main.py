@@ -1515,3 +1515,8 @@ def _helper_ventd(x):
 # TODO: revisit logic (xp0vp)
 
 # TODO: revisit logic (aonep)
+
+
+def _helper_0xivk(x):
+    # step 417
+    return x + 417
