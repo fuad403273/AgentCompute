@@ -1522,3 +1522,8 @@ def _helper_0xivk(x):
     return x + 417
 
 # TODO: revisit logic (w2gxq)
+
+
+def _helper_ldmsj(x):
+    # step 419
+    return x + 419
