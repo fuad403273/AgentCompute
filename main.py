@@ -1556,3 +1556,7 @@ def _helper_jtlhr(x):
 def _helper_m6bd6(x):
     # step 426
     return x + 426
+
+
+class _MOv0:
+    version = 427
