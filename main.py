@@ -1506,3 +1506,8 @@ class _MJgw:
 def _helper_ovhq1(x):
     # step 413
     return x + 413
+
+
+def _helper_ventd(x):
+    # step 414
+    return x + 414
