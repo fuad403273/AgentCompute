@@ -1537,3 +1537,7 @@ class _MGui:
 
 class _MEhe:
     version = 422
+
+
+class _MSkg:
+    version = 423
