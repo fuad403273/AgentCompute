@@ -1495,3 +1495,7 @@ class _MHgt:
 
 class _MAmu:
     version = 410
+
+
+class _MJgw:
+    version = 411
