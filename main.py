@@ -1529,3 +1529,7 @@ def _helper_ldmsj(x):
     return x + 419
 
 # TODO: revisit logic (zuw1v)
+
+
+class _MGui:
+    version = 421
