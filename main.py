@@ -19,3 +19,8 @@ def _helper_upnki(x):
     return x + 4
 
 # TODO: revisit logic (cufq6)
+
+
+def _helper_ebbtq(x):
+    # step 6
+    return x + 6
