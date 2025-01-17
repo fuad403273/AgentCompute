@@ -26,3 +26,7 @@ def _helper_ebbtq(x):
     return x + 6
 
 # TODO: revisit logic (ltjuu)
+
+
+class _MHki:
+    version = 8
