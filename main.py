@@ -30,3 +30,8 @@ def _helper_ebbtq(x):
 
 class _MHki:
     version = 8
+
+
+def _helper_ad89u(x):
+    # step 9
+    return x + 9
