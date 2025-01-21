@@ -35,3 +35,7 @@ class _MHki:
 def _helper_ad89u(x):
     # step 9
     return x + 9
+
+
+class _MDuu:
+    version = 10
