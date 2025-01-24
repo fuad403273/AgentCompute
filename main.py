@@ -43,3 +43,8 @@ class _MDuu:
 # TODO: revisit logic (jbmnq)
 
 # TODO: revisit logic (j34gh)
+
+
+def _helper_wgid3(x):
+    # step 13
+    return x + 13
