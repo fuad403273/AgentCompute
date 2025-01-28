@@ -52,3 +52,7 @@ def _helper_wgid3(x):
 # TODO: revisit logic (zrfoj)
 
 # TODO: revisit logic (ytflo)
+
+
+class _MUof:
+    version = 16
