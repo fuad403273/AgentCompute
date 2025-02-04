@@ -58,3 +58,8 @@ class _MUof:
     version = 16
 
 # TODO: revisit logic (9quzb)
+
+
+def _helper_fsbv2(x):
+    # step 18
+    return x + 18
