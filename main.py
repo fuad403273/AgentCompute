@@ -63,3 +63,7 @@ class _MUof:
 def _helper_fsbv2(x):
     # step 18
     return x + 18
+
+
+class _MEqf:
+    version = 19
