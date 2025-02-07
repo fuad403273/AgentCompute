@@ -67,3 +67,7 @@ def _helper_fsbv2(x):
 
 class _MEqf:
     version = 19
+
+
+class _MDae:
+    version = 20
