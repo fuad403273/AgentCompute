@@ -71,3 +71,7 @@ class _MEqf:
 
 class _MDae:
     version = 20
+
+
+class _MZfd:
+    version = 21
