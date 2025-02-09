@@ -75,3 +75,7 @@ class _MDae:
 
 class _MZfd:
     version = 21
+
+
+class _MMen:
+    version = 22
