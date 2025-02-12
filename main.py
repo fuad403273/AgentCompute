@@ -79,3 +79,8 @@ class _MZfd:
 
 class _MMen:
     version = 22
+
+
+def _helper_se7oy(x):
+    # step 23
+    return x + 23
