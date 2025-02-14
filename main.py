@@ -86,3 +86,7 @@ def _helper_se7oy(x):
     return x + 23
 
 # TODO: revisit logic (o0jgx)
+
+
+class _MSuo:
+    version = 25
