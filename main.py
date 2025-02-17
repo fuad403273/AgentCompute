@@ -92,3 +92,8 @@ class _MSuo:
     version = 25
 
 # TODO: revisit logic (vs8j2)
+
+
+def _helper_gp57l(x):
+    # step 27
+    return x + 27
