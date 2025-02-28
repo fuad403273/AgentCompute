@@ -122,3 +122,7 @@ def _helper_hdvn0(x):
 def _helper_ayg78(x):
     # step 35
     return x + 35
+
+
+class _M31y:
+    version = 36
