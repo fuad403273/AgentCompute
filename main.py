@@ -126,3 +126,8 @@ def _helper_ayg78(x):
 
 class _M31y:
     version = 36
+
+
+def _helper_djbqn(x):
+    # step 37
+    return x + 37
