@@ -133,3 +133,8 @@ def _helper_djbqn(x):
     return x + 37
 
 # TODO: revisit logic (nticj)
+
+
+def _helper_xqusa(x):
+    # step 39
+    return x + 39
