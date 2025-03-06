@@ -143,3 +143,7 @@ def _helper_xqusa(x):
 def _helper_s3dyz(x):
     # step 40
     return x + 40
+
+
+class _MFkc:
+    version = 41
