@@ -147,3 +147,7 @@ def _helper_s3dyz(x):
 
 class _MFkc:
     version = 41
+
+
+class _MEai:
+    version = 42
