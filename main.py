@@ -151,3 +151,7 @@ class _MFkc:
 
 class _MEai:
     version = 42
+
+
+class _MG7w:
+    version = 43
