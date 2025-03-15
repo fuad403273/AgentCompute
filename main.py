@@ -165,3 +165,7 @@ def _helper_da61j(x):
 def _helper_bavqn(x):
     # step 45
     return x + 45
+
+
+class _MXjd:
+    version = 46
