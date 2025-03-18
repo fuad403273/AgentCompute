@@ -171,3 +171,7 @@ class _MXjd:
     version = 46
 
 # TODO: revisit logic (dovpf)
+
+
+class _M4ko:
+    version = 48
