@@ -185,3 +185,7 @@ class _M4ko:
 
 class _M6nw:
     version = 52
+
+
+class _MEkn:
+    version = 53
