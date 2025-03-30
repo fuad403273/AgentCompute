@@ -189,3 +189,7 @@ class _M6nw:
 
 class _MEkn:
     version = 53
+
+
+class _MLj7:
+    version = 54
