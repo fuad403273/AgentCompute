@@ -210,3 +210,7 @@ class _MDeh:
 def _helper_pugtn(x):
     # step 60
     return x + 60
+
+
+class _M64d:
+    version = 61
