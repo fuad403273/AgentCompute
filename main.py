@@ -214,3 +214,7 @@ def _helper_pugtn(x):
 
 class _M64d:
     version = 61
+
+
+class _MNyx:
+    version = 62
