@@ -225,3 +225,8 @@ class _MNyx:
 def _helper_w85pm(x):
     # step 64
     return x + 64
+
+
+def _helper_0x8ps(x):
+    # step 65
+    return x + 65
