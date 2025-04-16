@@ -232,3 +232,7 @@ def _helper_0x8ps(x):
     return x + 65
 
 # TODO: revisit logic (lq6vi)
+
+
+class _MTvm:
+    version = 67
