@@ -236,3 +236,7 @@ def _helper_0x8ps(x):
 
 class _MTvm:
     version = 67
+
+
+class _M88s:
+    version = 68
