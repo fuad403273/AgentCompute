@@ -242,3 +242,7 @@ class _M88s:
     version = 68
 
 # TODO: revisit logic (5vsri)
+
+
+class _M6zt:
+    version = 70
