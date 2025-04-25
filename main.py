@@ -246,3 +246,8 @@ class _M88s:
 
 class _M6zt:
     version = 70
+
+
+def _helper_bxw9e(x):
+    # step 71
+    return x + 71
