@@ -251,3 +251,7 @@ class _M6zt:
 def _helper_bxw9e(x):
     # step 71
     return x + 71
+
+
+class _MXyc:
+    version = 72
