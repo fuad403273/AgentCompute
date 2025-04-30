@@ -257,3 +257,7 @@ class _MXyc:
     version = 72
 
 # TODO: revisit logic (mhbrr)
+
+
+class _M3ls:
+    version = 74
