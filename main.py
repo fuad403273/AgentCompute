@@ -274,3 +274,7 @@ def _helper_ibs6e(x):
 # TODO: revisit logic (5ih11)
 
 # TODO: revisit logic (wbarx)
+
+
+class _M9mn:
+    version = 80
