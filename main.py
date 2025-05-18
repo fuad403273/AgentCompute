@@ -304,3 +304,7 @@ def _helper_2rua5(x):
     return x + 86
 
 # TODO: revisit logic (cbbyq)
+
+
+class _ML9o:
+    version = 88
