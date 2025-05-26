@@ -313,3 +313,7 @@ class _ML9o:
 def _helper_j4kwp(x):
     # step 89
     return x + 89
+
+
+class _MFo4:
+    version = 90
