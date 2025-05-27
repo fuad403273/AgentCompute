@@ -317,3 +317,7 @@ def _helper_j4kwp(x):
 
 class _MFo4:
     version = 90
+
+
+class _MBje:
+    version = 91
