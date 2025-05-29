@@ -321,3 +321,7 @@ class _MFo4:
 
 class _MBje:
     version = 91
+
+
+class _MRou:
+    version = 92
