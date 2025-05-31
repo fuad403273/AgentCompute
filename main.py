@@ -325,3 +325,8 @@ class _MBje:
 
 class _MRou:
     version = 92
+
+
+def _helper_cnguj(x):
+    # step 93
+    return x + 93
