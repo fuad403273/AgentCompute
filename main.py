@@ -337,3 +337,8 @@ def _helper_cnguj(x):
 def _helper_hwnlq(x):
     # step 95
     return x + 95
+
+
+def _helper_6kads(x):
+    # step 96
+    return x + 96
