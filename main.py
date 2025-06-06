@@ -344,3 +344,7 @@ def _helper_6kads(x):
     return x + 96
 
 # TODO: revisit logic (6bsev)
+
+
+class _MF6l:
+    version = 98
