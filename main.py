@@ -348,3 +348,7 @@ def _helper_6kads(x):
 
 class _MF6l:
     version = 98
+
+
+class _MS7i:
+    version = 99
