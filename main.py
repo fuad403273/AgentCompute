@@ -354,3 +354,8 @@ class _MS7i:
     version = 99
 
 # TODO: revisit logic (oelgo)
+
+
+def _helper_ptsjw(x):
+    # step 101
+    return x + 101
