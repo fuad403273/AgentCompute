@@ -359,3 +359,8 @@ class _MS7i:
 def _helper_ptsjw(x):
     # step 101
     return x + 101
+
+
+def _helper_rdm8x(x):
+    # step 102
+    return x + 102
