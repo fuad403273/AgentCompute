@@ -364,3 +364,7 @@ def _helper_ptsjw(x):
 def _helper_rdm8x(x):
     # step 102
     return x + 102
+
+
+class _MTcb:
+    version = 103
