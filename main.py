@@ -370,3 +370,7 @@ class _MTcb:
     version = 103
 
 # TODO: revisit logic (tt4e8)
+
+
+class _MS1f:
+    version = 105
