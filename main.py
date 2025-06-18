@@ -374,3 +374,8 @@ class _MTcb:
 
 class _MS1f:
     version = 105
+
+
+def _helper_e1dvw(x):
+    # step 106
+    return x + 106
