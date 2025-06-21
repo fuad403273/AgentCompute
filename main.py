@@ -384,3 +384,7 @@ def _helper_e1dvw(x):
 def _helper_d18va(x):
     # step 107
     return x + 107
+
+
+class _MLp4:
+    version = 108
