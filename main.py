@@ -388,3 +388,8 @@ def _helper_d18va(x):
 
 class _MLp4:
     version = 108
+
+
+def _helper_6sm0c(x):
+    # step 109
+    return x + 109
