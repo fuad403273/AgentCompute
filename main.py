@@ -400,3 +400,7 @@ def _helper_6sm0c(x):
 def _helper_wvwsi(x):
     # step 111
     return x + 111
+
+
+class _MDbe:
+    version = 112
