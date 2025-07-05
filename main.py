@@ -418,3 +418,7 @@ def _helper_ztuyr(x):
     return x + 115
 
 # TODO: revisit logic (fxokf)
+
+
+class _MTb2:
+    version = 117
