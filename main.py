@@ -422,3 +422,8 @@ def _helper_ztuyr(x):
 
 class _MTb2:
     version = 117
+
+
+def _helper_ohdlu(x):
+    # step 118
+    return x + 118
