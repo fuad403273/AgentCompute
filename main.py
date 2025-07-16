@@ -431,3 +431,8 @@ def _helper_ohdlu(x):
 # TODO: revisit logic (pxnyz)
 
 # TODO: revisit logic (ewj18)
+
+
+def _helper_zsqro(x):
+    # step 121
+    return x + 121
