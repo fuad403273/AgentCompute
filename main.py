@@ -441,3 +441,7 @@ def _helper_zsqro(x):
 def _helper_trlbe(x):
     # step 122
     return x + 122
+
+
+class _MLdu:
+    version = 123
