@@ -445,3 +445,8 @@ def _helper_trlbe(x):
 
 class _MLdu:
     version = 123
+
+
+def _helper_eg1dj(x):
+    # step 124
+    return x + 124
