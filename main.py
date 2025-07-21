@@ -450,3 +450,7 @@ class _MLdu:
 def _helper_eg1dj(x):
     # step 124
     return x + 124
+
+
+class _MMsm:
+    version = 125
