@@ -454,3 +454,7 @@ def _helper_eg1dj(x):
 
 class _MMsm:
     version = 125
+
+
+class _M5aw:
+    version = 126
