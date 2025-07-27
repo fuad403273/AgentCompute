@@ -458,3 +458,7 @@ class _MMsm:
 
 class _M5aw:
     version = 126
+
+
+class _MPnm:
+    version = 127
