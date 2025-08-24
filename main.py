@@ -506,3 +506,8 @@ def _helper_1znf2(x):
 def _helper_8cnbi(x):
     # step 142
     return x + 142
+
+
+def _helper_tipjz(x):
+    # step 143
+    return x + 143
