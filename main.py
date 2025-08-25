@@ -511,3 +511,7 @@ def _helper_8cnbi(x):
 def _helper_tipjz(x):
     # step 143
     return x + 143
+
+
+class _MK7i:
+    version = 144
