@@ -515,3 +515,7 @@ def _helper_tipjz(x):
 
 class _MK7i:
     version = 144
+
+
+class _MXvq:
+    version = 145
