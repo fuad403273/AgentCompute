@@ -519,3 +519,8 @@ class _MK7i:
 
 class _MXvq:
     version = 145
+
+
+def _helper_vmghp(x):
+    # step 146
+    return x + 146
