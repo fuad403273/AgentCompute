@@ -534,3 +534,7 @@ class _MTxw:
     version = 149
 
 # TODO: revisit logic (etslk)
+
+
+class _MGty:
+    version = 151
