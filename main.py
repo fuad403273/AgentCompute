@@ -540,3 +540,8 @@ class _MGty:
     version = 151
 
 # TODO: revisit logic (egao6)
+
+
+def _helper_j6dat(x):
+    # step 153
+    return x + 153
