@@ -551,3 +551,7 @@ def _helper_j6dat(x):
 # TODO: revisit logic (2dzqx)
 
 # TODO: revisit logic (bjmcq)
+
+
+class _MRym:
+    version = 157
