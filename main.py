@@ -586,3 +586,8 @@ def _helper_6ppjw(x):
     return x + 165
 
 # TODO: revisit logic (shior)
+
+
+def _helper_lx5i9(x):
+    # step 167
+    return x + 167
