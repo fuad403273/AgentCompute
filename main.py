@@ -602,3 +602,8 @@ def _helper_zo3uc(x):
     return x + 169
 
 # TODO: revisit logic (ppvq4)
+
+
+def _helper_i0x7x(x):
+    # step 171
+    return x + 171
