@@ -607,3 +607,7 @@ def _helper_zo3uc(x):
 def _helper_i0x7x(x):
     # step 171
     return x + 171
+
+
+class _MCcb:
+    version = 172
