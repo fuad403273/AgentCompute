@@ -611,3 +611,7 @@ def _helper_i0x7x(x):
 
 class _MCcb:
     version = 172
+
+
+class _MXe8:
+    version = 173
