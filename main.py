@@ -615,3 +615,7 @@ class _MCcb:
 
 class _MXe8:
     version = 173
+
+
+class _MIwb:
+    version = 174
