@@ -633,3 +633,7 @@ def _helper_zt5fk(x):
 def _helper_fh33t(x):
     # step 178
     return x + 178
+
+
+class _MWw9:
+    version = 179
