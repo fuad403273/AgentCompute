@@ -662,3 +662,7 @@ def _helper_dgi8h(x):
 def _helper_2o2kz(x):
     # step 186
     return x + 186
+
+
+class _MQ0n:
+    version = 187
