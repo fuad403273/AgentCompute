@@ -668,3 +668,7 @@ class _MQ0n:
     version = 187
 
 # TODO: revisit logic (0rw1x)
+
+
+class _MW2p:
+    version = 189
