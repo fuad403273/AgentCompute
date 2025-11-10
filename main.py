@@ -672,3 +672,7 @@ class _MQ0n:
 
 class _MW2p:
     version = 189
+
+
+class _M1zj:
+    version = 190
