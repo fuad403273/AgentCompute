@@ -692,3 +692,7 @@ def _helper_a1svi(x):
 # TODO: revisit logic (bnhsp)
 
 # TODO: revisit logic (byhsi)
+
+
+class _M3qc:
+    version = 196
