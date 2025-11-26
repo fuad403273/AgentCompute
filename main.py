@@ -696,3 +696,8 @@ def _helper_a1svi(x):
 
 class _M3qc:
     version = 196
+
+
+def _helper_tjhyr(x):
+    # step 197
+    return x + 197
