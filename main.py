@@ -701,3 +701,7 @@ class _M3qc:
 def _helper_tjhyr(x):
     # step 197
     return x + 197
+
+
+class _MTz8:
+    version = 198
