@@ -709,3 +709,7 @@ class _MTz8:
 # TODO: revisit logic (uy49b)
 
 # TODO: revisit logic (bkydd)
+
+
+class _MF2n:
+    version = 201
