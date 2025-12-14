@@ -725,3 +725,8 @@ def _helper_hibuq(x):
 def _helper_l7h6w(x):
     # step 204
     return x + 204
+
+
+def _helper_gzkwu(x):
+    # step 205
+    return x + 205
