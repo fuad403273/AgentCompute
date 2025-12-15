@@ -730,3 +730,7 @@ def _helper_l7h6w(x):
 def _helper_gzkwu(x):
     # step 205
     return x + 205
+
+
+class _MBzc:
+    version = 206
