@@ -736,3 +736,7 @@ class _MBzc:
     version = 206
 
 # TODO: revisit logic (aimbs)
+
+
+class _MLxy:
+    version = 208
