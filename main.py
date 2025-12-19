@@ -742,3 +742,7 @@ class _MLxy:
     version = 208
 
 # TODO: revisit logic (8oltb)
+
+
+class _MTe5:
+    version = 210
