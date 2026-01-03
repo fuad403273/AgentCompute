@@ -765,3 +765,7 @@ class _M0za:
 def _helper_81iyd(x):
     # step 214
     return x + 214
+
+
+class _MOco:
+    version = 215
