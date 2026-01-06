@@ -769,3 +769,8 @@ def _helper_81iyd(x):
 
 class _MOco:
     version = 215
+
+
+def _helper_ptuwe(x):
+    # step 216
+    return x + 216
