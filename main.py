@@ -774,3 +774,7 @@ class _MOco:
 def _helper_ptuwe(x):
     # step 216
     return x + 216
+
+
+class _MRr3:
+    version = 217
