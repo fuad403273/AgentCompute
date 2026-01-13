@@ -790,3 +790,7 @@ def _helper_l5u4z(x):
 def _helper_obvx4(x):
     # step 220
     return x + 220
+
+
+class _MClj:
+    version = 221
