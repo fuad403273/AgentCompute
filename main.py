@@ -794,3 +794,7 @@ def _helper_obvx4(x):
 
 class _MClj:
     version = 221
+
+
+class _MT8c:
+    version = 222
