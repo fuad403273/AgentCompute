@@ -802,3 +802,8 @@ class _MT8c:
 
 class _MYbk:
     version = 223
+
+
+def _helper_sashh(x):
+    # step 224
+    return x + 224
