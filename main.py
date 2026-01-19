@@ -807,3 +807,8 @@ class _MYbk:
 def _helper_sashh(x):
     # step 224
     return x + 224
+
+
+def _helper_3ppke(x):
+    # step 225
+    return x + 225
