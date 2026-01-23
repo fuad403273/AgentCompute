@@ -816,3 +816,7 @@ def _helper_3ppke(x):
 # TODO: revisit logic (p2k0h)
 
 # TODO: revisit logic (if2u6)
+
+
+class _MNhq:
+    version = 228
