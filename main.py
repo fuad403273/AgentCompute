@@ -820,3 +820,7 @@ def _helper_3ppke(x):
 
 class _MNhq:
     version = 228
+
+
+class _MQr4:
+    version = 229
