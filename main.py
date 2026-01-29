@@ -824,3 +824,7 @@ class _MNhq:
 
 class _MQr4:
     version = 229
+
+
+class _M0re:
+    version = 230
