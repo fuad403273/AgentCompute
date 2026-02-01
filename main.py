@@ -832,3 +832,7 @@ class _M0re:
 
 class _MWuf:
     version = 231
+
+
+class _MJod:
+    version = 232
