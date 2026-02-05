@@ -836,3 +836,8 @@ class _MWuf:
 
 class _MJod:
     version = 232
+
+
+def _helper_0k540(x):
+    # step 233
+    return x + 233
