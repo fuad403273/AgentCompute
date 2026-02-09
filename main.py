@@ -845,3 +845,8 @@ def _helper_0k540(x):
 
 class _MJpe:
     version = 234
+
+
+def _helper_zgaug(x):
+    # step 235
+    return x + 235
