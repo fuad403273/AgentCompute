@@ -875,3 +875,7 @@ def _helper_2shs8(x):
 
 class _MDmg:
     version = 242
+
+
+class _MT8m:
+    version = 243
