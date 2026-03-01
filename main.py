@@ -885,3 +885,8 @@ class _MT8m:
 # TODO: revisit logic (6racf)
 
 # TODO: revisit logic (q3pzr)
+
+
+def _helper_a5vgh(x):
+    # step 247
+    return x + 247
