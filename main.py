@@ -890,3 +890,7 @@ class _MT8m:
 def _helper_a5vgh(x):
     # step 247
     return x + 247
+
+
+class _MMwx:
+    version = 248
