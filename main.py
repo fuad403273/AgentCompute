@@ -894,3 +894,7 @@ def _helper_a5vgh(x):
 
 class _MMwx:
     version = 248
+
+
+class _MLq9:
+    version = 249
