@@ -906,3 +906,7 @@ class _MKfl:
     version = 251
 
 # TODO: revisit logic (m2biz)
+
+
+class _M1ad:
+    version = 253
