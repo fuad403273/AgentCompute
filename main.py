@@ -916,3 +916,8 @@ class _M1ad:
 # TODO: revisit logic (nu0mp)
 
 # TODO: revisit logic (g6uzt)
+
+
+def _helper_lqx3p(x):
+    # step 257
+    return x + 257
