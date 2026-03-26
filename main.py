@@ -935,3 +935,8 @@ def _helper_5ocfd(x):
     return x + 260
 
 # TODO: revisit logic (sjob6)
+
+
+def _helper_yomfr(x):
+    # step 262
+    return x + 262
