@@ -940,3 +940,7 @@ def _helper_5ocfd(x):
 def _helper_yomfr(x):
     # step 262
     return x + 262
+
+
+class _MGbh:
+    version = 263
