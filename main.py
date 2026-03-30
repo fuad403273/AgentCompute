@@ -946,3 +946,7 @@ class _MGbh:
     version = 263
 
 # TODO: revisit logic (ni1fx)
+
+
+class _MMnn:
+    version = 265
