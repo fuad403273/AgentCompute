@@ -954,3 +954,8 @@ class _MMnn:
 # TODO: revisit logic (ii5ie)
 
 # TODO: revisit logic (elgr0)
+
+
+def _helper_s22e8(x):
+    # step 268
+    return x + 268
