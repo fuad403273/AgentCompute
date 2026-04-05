@@ -959,3 +959,8 @@ class _MMnn:
 def _helper_s22e8(x):
     # step 268
     return x + 268
+
+
+def _helper_vszic(x):
+    # step 269
+    return x + 269
