@@ -964,3 +964,8 @@ def _helper_s22e8(x):
 def _helper_vszic(x):
     # step 269
     return x + 269
+
+
+def _helper_wtcbz(x):
+    # step 270
+    return x + 270
