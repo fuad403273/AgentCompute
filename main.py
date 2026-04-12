@@ -971,3 +971,8 @@ def _helper_wtcbz(x):
     return x + 270
 
 # TODO: revisit logic (dp2qc)
+
+
+def _helper_qvoxm(x):
+    # step 272
+    return x + 272
