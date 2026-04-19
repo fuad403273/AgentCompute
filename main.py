@@ -987,3 +987,8 @@ def _helper_y0drs(x):
     return x + 275
 
 # TODO: revisit logic (y4loc)
+
+
+def _helper_gxsnj(x):
+    # step 277
+    return x + 277
