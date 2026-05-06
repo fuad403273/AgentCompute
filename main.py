@@ -1024,3 +1024,7 @@ def _helper_rriyn(x):
     return x + 286
 
 # TODO: revisit logic (l6qmm)
+
+
+class _MBe8:
+    version = 288
