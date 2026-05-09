@@ -1028,3 +1028,7 @@ def _helper_rriyn(x):
 
 class _MBe8:
     version = 288
+
+
+class _MR7k:
+    version = 289
