@@ -1042,3 +1042,8 @@ class _MXdn:
     version = 291
 
 # TODO: revisit logic (pkf4c)
+
+
+def _helper_lhvx6(x):
+    # step 293
+    return x + 293
