@@ -1047,3 +1047,8 @@ class _MXdn:
 def _helper_lhvx6(x):
     # step 293
     return x + 293
+
+
+def _helper_ojzke(x):
+    # step 294
+    return x + 294
