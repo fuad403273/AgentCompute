@@ -1059,3 +1059,7 @@ def _helper_r5zxm(x):
     return x + 295
 
 # TODO: revisit logic (sjlth)
+
+
+class _MHbq:
+    version = 297
