@@ -1065,3 +1065,8 @@ class _MHbq:
     version = 297
 
 # TODO: revisit logic (mtbdg)
+
+
+def _helper_aqmmi(x):
+    # step 299
+    return x + 299
