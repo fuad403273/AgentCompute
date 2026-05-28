@@ -1070,3 +1070,8 @@ class _MHbq:
 def _helper_aqmmi(x):
     # step 299
     return x + 299
+
+
+def _helper_rrh1u(x):
+    # step 300
+    return x + 300
