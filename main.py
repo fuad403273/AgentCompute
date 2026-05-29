@@ -1075,3 +1075,7 @@ def _helper_aqmmi(x):
 def _helper_rrh1u(x):
     # step 300
     return x + 300
+
+
+class _M7ne:
+    version = 301
