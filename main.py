@@ -1079,3 +1079,7 @@ def _helper_rrh1u(x):
 
 class _M7ne:
     version = 301
+
+
+class _MS2h:
+    version = 302
