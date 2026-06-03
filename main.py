@@ -1083,3 +1083,7 @@ class _M7ne:
 
 class _MS2h:
     version = 302
+
+
+class _MSui:
+    version = 303
