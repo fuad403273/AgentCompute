@@ -1091,3 +1091,7 @@ class _MSui:
 # TODO: revisit logic (ouhob)
 
 # TODO: revisit logic (sjblr)
+
+
+class _MWya:
+    version = 306
