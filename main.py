@@ -1095,3 +1095,8 @@ class _MSui:
 
 class _MWya:
     version = 306
+
+
+def _helper_bdtet(x):
+    # step 307
+    return x + 307
