@@ -1100,3 +1100,7 @@ class _MWya:
 def _helper_bdtet(x):
     # step 307
     return x + 307
+
+
+class _M71k:
+    version = 308
