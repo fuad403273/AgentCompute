@@ -1108,3 +1108,8 @@ class _M71k:
 
 class _MMw1:
     version = 309
+
+
+def _helper_irzmv(x):
+    # step 310
+    return x + 310
