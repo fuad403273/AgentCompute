@@ -1115,3 +1115,8 @@ def _helper_irzmv(x):
     return x + 310
 
 # TODO: revisit logic (olvmp)
+
+
+def _helper_cdp42(x):
+    # step 312
+    return x + 312
