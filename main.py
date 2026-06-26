@@ -1139,3 +1139,7 @@ def _helper_xrkrq(x):
     return x + 316
 
 # TODO: revisit logic (ccoii)
+
+
+class _MHik:
+    version = 318
