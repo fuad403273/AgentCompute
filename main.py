@@ -1143,3 +1143,7 @@ def _helper_xrkrq(x):
 
 class _MHik:
     version = 318
+
+
+class _MVxx:
+    version = 319
