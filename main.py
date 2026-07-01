@@ -1147,3 +1147,7 @@ class _MHik:
 
 class _MVxx:
     version = 319
+
+
+class _MZwo:
+    version = 320
