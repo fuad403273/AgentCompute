@@ -1159,3 +1159,7 @@ class _MQqp:
 
 class _MUwn:
     version = 322
+
+
+class _MHea:
+    version = 323
