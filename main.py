@@ -1163,3 +1163,8 @@ class _MUwn:
 
 class _MHea:
     version = 323
+
+
+def _helper_tgqa0(x):
+    # step 324
+    return x + 324
