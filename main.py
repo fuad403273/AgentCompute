@@ -1170,3 +1170,7 @@ def _helper_tgqa0(x):
     return x + 324
 
 # TODO: revisit logic (jzyvh)
+
+
+class _MH7h:
+    version = 326
