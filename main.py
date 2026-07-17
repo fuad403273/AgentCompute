@@ -1174,3 +1174,8 @@ def _helper_tgqa0(x):
 
 class _MH7h:
     version = 326
+
+
+def _helper_kxgvo(x):
+    # step 327
+    return x + 327
