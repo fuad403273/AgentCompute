@@ -1179,3 +1179,8 @@ class _MH7h:
 def _helper_kxgvo(x):
     # step 327
     return x + 327
+
+
+def _helper_kbhmn(x):
+    # step 328
+    return x + 328
