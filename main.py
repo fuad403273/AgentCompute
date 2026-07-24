@@ -1193,3 +1193,7 @@ def _helper_lzuku(x):
 # TODO: revisit logic (vxlnv)
 
 # TODO: revisit logic (i2wma)
+
+
+class _MCol:
+    version = 332
