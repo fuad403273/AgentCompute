@@ -1197,3 +1197,7 @@ def _helper_lzuku(x):
 
 class _MCol:
     version = 332
+
+
+class _MK5i:
+    version = 333
