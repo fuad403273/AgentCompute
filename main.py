@@ -1205,3 +1205,7 @@ class _MK5i:
 # TODO: revisit logic (ulf1n)
 
 # TODO: revisit logic (ldce5)
+
+
+class _MZqq:
+    version = 336
