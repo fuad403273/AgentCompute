@@ -1209,3 +1209,8 @@ class _MK5i:
 
 class _MZqq:
     version = 336
+
+
+def _helper_7gsmw(x):
+    # step 337
+    return x + 337
