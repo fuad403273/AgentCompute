@@ -1214,3 +1214,7 @@ class _MZqq:
 def _helper_7gsmw(x):
     # step 337
     return x + 337
+
+
+class _MAsb:
+    version = 338
