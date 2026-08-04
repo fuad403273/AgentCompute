@@ -1220,3 +1220,8 @@ class _MAsb:
     version = 338
 
 # TODO: revisit logic (2uby5)
+
+
+def _helper_6ny6v(x):
+    # step 340
+    return x + 340
