@@ -1259,3 +1259,7 @@ def _helper_e4tqv(x):
 def _helper_kfccz(x):
     # step 351
     return x + 351
+
+
+class _MSyq:
+    version = 352
