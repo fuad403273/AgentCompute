@@ -1265,3 +1265,7 @@ class _MSyq:
     version = 352
 
 # TODO: revisit logic (pdkke)
+
+
+class _MUjc:
+    version = 354
