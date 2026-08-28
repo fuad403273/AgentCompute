@@ -1269,3 +1269,7 @@ class _MSyq:
 
 class _MUjc:
     version = 354
+
+
+class _MWij:
+    version = 355
