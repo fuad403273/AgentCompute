@@ -1273,3 +1273,8 @@ class _MUjc:
 
 class _MWij:
     version = 355
+
+
+def _helper_ywxnv(x):
+    # step 356
+    return x + 356
