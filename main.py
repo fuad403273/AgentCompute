@@ -1278,3 +1278,7 @@ class _MWij:
 def _helper_ywxnv(x):
     # step 356
     return x + 356
+
+
+class _MXr6:
+    version = 357
