@@ -1282,3 +1282,7 @@ def _helper_ywxnv(x):
 
 class _MXr6:
     version = 357
+
+
+class _MCvs:
+    version = 358
