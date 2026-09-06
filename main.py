@@ -1286,3 +1286,8 @@ class _MXr6:
 
 class _MCvs:
     version = 358
+
+
+def _helper_kmupi(x):
+    # step 359
+    return x + 359
