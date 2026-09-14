@@ -1301,3 +1301,8 @@ def _helper_ufuwa(x):
 def _helper_7uyxp(x):
     # step 361
     return x + 361
+
+
+def _helper_jaxti(x):
+    # step 362
+    return x + 362
