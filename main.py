@@ -1306,3 +1306,7 @@ def _helper_7uyxp(x):
 def _helper_jaxti(x):
     # step 362
     return x + 362
+
+
+class _MUuu:
+    version = 363
