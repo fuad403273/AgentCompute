@@ -1314,3 +1314,7 @@ class _MUuu:
 
 class _MPxl:
     version = 364
+
+
+class _MF5a:
+    version = 365
