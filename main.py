@@ -1332,3 +1332,7 @@ def _helper_02hoo(x):
 def _helper_flrzk(x):
     # step 369
     return x + 369
+
+
+class _MLlo:
+    version = 370
