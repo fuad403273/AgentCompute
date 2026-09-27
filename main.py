@@ -1336,3 +1336,7 @@ def _helper_flrzk(x):
 
 class _MLlo:
     version = 370
+
+
+class _M5fh:
+    version = 371
