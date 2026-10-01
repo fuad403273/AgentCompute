@@ -1342,3 +1342,8 @@ class _M5fh:
     version = 371
 
 # TODO: revisit logic (yyvc9)
+
+
+def _helper_5k8ar(x):
+    # step 373
+    return x + 373
