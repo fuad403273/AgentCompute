@@ -1347,3 +1347,7 @@ class _M5fh:
 def _helper_5k8ar(x):
     # step 373
     return x + 373
+
+
+class _MX5k:
+    version = 374
