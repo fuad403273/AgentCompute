@@ -1351,3 +1351,7 @@ def _helper_5k8ar(x):
 
 class _MX5k:
     version = 374
+
+
+class _MBnz:
+    version = 375
