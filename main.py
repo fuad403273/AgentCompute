@@ -1355,3 +1355,7 @@ class _MX5k:
 
 class _MBnz:
     version = 375
+
+
+class _MI5r:
+    version = 376
