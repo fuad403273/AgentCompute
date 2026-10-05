@@ -1359,3 +1359,8 @@ class _MBnz:
 
 class _MI5r:
     version = 376
+
+
+def _helper_5xrxf(x):
+    # step 377
+    return x + 377
