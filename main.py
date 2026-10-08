@@ -1364,3 +1364,7 @@ class _MI5r:
 def _helper_5xrxf(x):
     # step 377
     return x + 377
+
+
+class _MIos:
+    version = 378
