@@ -1372,3 +1372,7 @@ class _MIos:
 # TODO: revisit logic (3jdpz)
 
 # TODO: revisit logic (jcgcf)
+
+
+class _MM2k:
+    version = 381
