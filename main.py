@@ -1388,3 +1388,7 @@ def _helper_mopm8(x):
 def _helper_nd3yt(x):
     # step 384
     return x + 384
+
+
+class _MFv1:
+    version = 385
