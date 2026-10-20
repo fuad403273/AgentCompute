@@ -1397,3 +1397,8 @@ class _MFv1:
 def _helper_tyxnm(x):
     # step 386
     return x + 386
+
+
+def _helper_fp0ts(x):
+    # step 387
+    return x + 387
