@@ -1402,3 +1402,7 @@ def _helper_tyxnm(x):
 def _helper_fp0ts(x):
     # step 387
     return x + 387
+
+
+class _MWbv:
+    version = 388
