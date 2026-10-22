@@ -1406,3 +1406,7 @@ def _helper_fp0ts(x):
 
 class _MWbv:
     version = 388
+
+
+class _MEcg:
+    version = 389
