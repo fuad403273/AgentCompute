@@ -1410,3 +1410,8 @@ class _MWbv:
 
 class _MEcg:
     version = 389
+
+
+def _helper_rwltq(x):
+    # step 390
+    return x + 390
