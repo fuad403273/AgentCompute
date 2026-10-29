@@ -1420,3 +1420,7 @@ def _helper_rwltq(x):
 def _helper_tyeyi(x):
     # step 391
     return x + 391
+
+
+class _M6df:
+    version = 392
