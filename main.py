@@ -1429,3 +1429,7 @@ class _M6df:
 def _helper_q8ch2(x):
     # step 393
     return x + 393
+
+
+class _MTed:
+    version = 394
