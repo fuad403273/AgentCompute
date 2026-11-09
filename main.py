@@ -1433,3 +1433,8 @@ def _helper_q8ch2(x):
 
 class _MTed:
     version = 394
+
+
+def _helper_vbuvh(x):
+    # step 395
+    return x + 395
