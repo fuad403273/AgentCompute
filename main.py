@@ -1438,3 +1438,8 @@ class _MTed:
 def _helper_vbuvh(x):
     # step 395
     return x + 395
+
+
+def _helper_t2das(x):
+    # step 396
+    return x + 396
