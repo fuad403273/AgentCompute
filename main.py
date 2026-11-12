@@ -1443,3 +1443,7 @@ def _helper_vbuvh(x):
 def _helper_t2das(x):
     # step 396
     return x + 396
+
+
+class _MJk2:
+    version = 397
