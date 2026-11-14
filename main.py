@@ -1452,3 +1452,7 @@ class _MJk2:
 def _helper_o4x5m(x):
     # step 398
     return x + 398
+
+
+class _M9r6:
+    version = 399
