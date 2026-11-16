@@ -1458,3 +1458,7 @@ class _M9r6:
     version = 399
 
 # TODO: revisit logic (cdxbb)
+
+
+class _MI6p:
+    version = 401
