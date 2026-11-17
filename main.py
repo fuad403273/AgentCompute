@@ -1462,3 +1462,7 @@ class _M9r6:
 
 class _MI6p:
     version = 401
+
+
+class _MZe2:
+    version = 402
