@@ -1483,3 +1483,7 @@ def _helper_aidoz(x):
 def _helper_oesiu(x):
     # step 406
     return x + 406
+
+
+class _MHgt:
+    version = 407
