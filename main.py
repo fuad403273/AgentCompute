@@ -1491,3 +1491,7 @@ class _MHgt:
 # TODO: revisit logic (punsv)
 
 # TODO: revisit logic (untev)
+
+
+class _MAmu:
+    version = 410
